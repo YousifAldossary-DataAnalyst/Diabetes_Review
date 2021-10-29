@@ -17,9 +17,7 @@ In this project I aim to find a way to predict if a person has Diabetes. The tas
     - 'Age', 
     - 'Outcome'
 
-######  Research source: https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444
-
-I have no medical back ground so I dug deep into the medical research about Diabetes and I found there are two types I and II. Type I symptoms tend to come on quickly and be more severe. where as Type II:
+I have a small medical back ground so I dug deep into the medical research about Diabetes and I found there are two types I and II. Type I symptoms tend to come on quickly and be more severe. where as Type II:
 
 - Symptoms
     - Increased thirst
@@ -42,6 +40,8 @@ With more reading I found out that *insulin and glucose* are main factor of caus
     - 'Family history', 
     - 'bnormal cholesterol and triglyceride levels',
     - 'ethnicity' 
+
+######  Research source: https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444
 
 As I know from *NASM School*, I learned that the cause of Diabetes is high BMI, Blood pressure, weight and age are factors of diabetes.
 Therefore, I know the the outcome here is diabetes type II. Clearly, Pregnancies are unrelated but based on the given data I must find related informations.
